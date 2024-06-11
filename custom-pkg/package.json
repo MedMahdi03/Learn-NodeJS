@@ -1,0 +1,16 @@
+{
+  "name": "greet-pkg",
+  "version": "1.0.1",
+  "main": "main.mjs",
+  "scripts": {
+    "start": "nodemon main.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "camelcase": "^8.0.0",
+    "lodash": "^4.17.21"
+  }
+}
